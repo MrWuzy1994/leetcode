@@ -1,5 +1,5 @@
-.idea　　　　
-.mvn　　　　
+.idea
+.mvn
 .iml
 mvnw
 mvnw.cmd
@@ -10,7 +10,6 @@ help.md
 .project
 .settings
 .classpath
-
 
 /node_modules/
 /dist/
