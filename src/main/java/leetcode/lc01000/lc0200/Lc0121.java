@@ -1,4 +1,4 @@
-package leetcode.lc01000.lc0100;
+package leetcode.lc01000.lc0200;
 
 public class Lc0121 {
 
