@@ -11,5 +11,10 @@
 
 拓扑排序
 
-
 动态规划
+
+LRU缓存 get put O（1）
+    自定义一个双向链表，记录链表的头和尾
+    Map<Integer,Node>存储key和对应的node
+    get元素，获取node，改变node前后节点的关系，然后把node放到双向链表的头部
+
